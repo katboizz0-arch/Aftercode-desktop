@@ -40,7 +40,7 @@
     "postcss-import": "^14.0.0",
     "postcss-loader": "^4.2.0",
     "postcss-simple-vars": "^6.0.3",
-    "scratch-blocks": "github:katboizz0-arch/Aftercode-blocks",
+    "scratch-blocks": "github:Aftercode-official/Aftercode-blocks",
     "scratch-gui": "github:Aftercode-official/scratch-gui",
     "style-loader": "^0.23.0",
     "url-loader": "^4.1.1",
